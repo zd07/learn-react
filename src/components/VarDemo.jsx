@@ -13,7 +13,7 @@ const VarDemo = () => {
     <div>
       <p>Count: {count}</p>
       {/* Button to trigger the increment function */}
-      <button onClick={increment}>Increment the count</button>
+      <button onClick={increment}>Increment the count --</button>
     </div>
   );
 };
